@@ -4,9 +4,9 @@ const CONFIG = {
     nhưng mà em iu anh nhìu lắm anh bt hông,
     iu rất rất nhìu lun ý iu hông tả nổi nên 
     em mới vậy :(((
-   
-    
-   
+   moaaaa
+    moaaaaa
+ moaaaa
     btnIntro: 'hihi',
     title: 'Vì đã lỡ iu Phạm Gia Bảo nhiều 🥰',
     desc: 'Mong sao cho ta mãi bên nhau tới già hehe😻 ',
