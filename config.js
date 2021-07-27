@@ -1,18 +1,21 @@
 const CONFIG = {
     introTitle: 'Bồ à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Em là 1 đứa hay suy nghĩ nhìu
+    nhưng mà em iu anh nhìu lắm anh bt hông,
+    iu rất rất nhìu lun ý iu hông tả nổi nên 
+    em mới vậy :(((
+   
+    
+   
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    title: 'Vì đã lỡ iu Phạm Gia Bảo nhiều 🥰',
+    desc: 'Mong sao cho ta mãi bên nhau tới già hehe😻 ',
+    btnYes: 'Vẫn yêu em rất nhìu :3 ',
+    btnNo: 'Không yêu em nhìu nx ;)) ',
+    question:'Trên thế giới hơn 7 tỉ người mà sao Gia Bảo lại yêu Thén <3',
+    btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
     
     
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
