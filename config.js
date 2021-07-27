@@ -4,8 +4,8 @@ const CONFIG = {
     nhưng mà em iu anh nhìu lắm anh bt hông,
     iu rất rất nhìu lun ý iu hông tả nổi nên 
     em mới vậy :(((
-   moaaaa
-    moaaaaa
+   moaaaam
+  mmoaaaaa
  moaaaa
     btnIntro: 'hihi',
     title: 'Vì đã lỡ iu Phạm Gia Bảo nhiều 🥰',
@@ -19,4 +19,3 @@ const CONFIG = {
     yêuu anhh
     yêuu anhh
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
